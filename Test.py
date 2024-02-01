@@ -1,5 +1,3 @@
-# Testing local environment setup
-
 from PyQt5.QtWidgets import QLabel, QApplication, QWidget, QVBoxLayout
 from PyQt5.QtGui import QImage, QPixmap
 from PyQt5.QtCore import QThread
